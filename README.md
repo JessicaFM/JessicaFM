@@ -5,13 +5,14 @@ I'm a web and mobile web developer. I'm based on Barcelona, Spain.
 ### What i am currently working on :computer:
 Currently improving my React skills: NextJS, Gatsby JS and React Native. While improving my Swift knowledge.
 
+![VS Code](https://img.shields.io/badge/visualstudiocode-badge-blue.svg?logo=visual-studio-code)
+
+
 ### You can find me here:
 [Twitter](https://twitter.com/_idlebeat)
-[Linkedin](https://www.linkedin.com/in/jessica-fernandez-53312999)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/jessica-fernandez-53312999)
 &nbsp;
-[![Twitter](https://i.stack.imgur.com/zlR4C.jpg) Twitter](https://twitter.com/_idlebeat)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JessicaFM)](https://github.com/JessicaFM/github-readme-stats)
 
