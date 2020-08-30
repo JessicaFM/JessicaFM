@@ -1,3 +1,5 @@
+<!-- ![Image of Yaktocat](https://github.com/JessicaFM/JessicaFM/blob/master/twitter-bgd-profile-small.jpg) -->
+
 ## Hi, I'm Jessica! 👋
 
 I'm a web and mobile web developer. I'm based on Barcelona, Spain.
