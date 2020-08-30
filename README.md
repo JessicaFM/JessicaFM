@@ -13,6 +13,7 @@ Currently improving my React skills: NextJS, Gatsby JS and React Native. While i
 &nbsp;
 [![Twitter](https://i.stack.imgur.com/zlR4C.jpg) Twitter](https://twitter.com/_idlebeat)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JessicaFM)](https://github.com/JessicaFM/github-readme-stats)
 
 <!--
 **JessicaFM/JessicaFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
