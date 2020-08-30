@@ -9,6 +9,10 @@ Currently improving my React skills: NextJS, Gatsby JS and React Native. While i
 [Twitter](https://twitter.com/_idlebeat)
 [Linkedin](https://www.linkedin.com/in/jessica-fernandez-53312999)
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+
 
 <!--
 **JessicaFM/JessicaFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
