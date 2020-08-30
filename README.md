@@ -1,4 +1,4 @@
-<!-- ![Image of Yaktocat](https://github.com/JessicaFM/JessicaFM/blob/master/twitter-bgd-profile-small.jpg) -->
+![Image of Profile](https://github.com/JessicaFM/JessicaFM/blob/master/twitter-bgd-profile-1.jpg)
 
 ## Hi, I'm Jessica! 👋
 
