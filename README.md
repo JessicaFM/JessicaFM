@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi, I'm Jessica! 👋
+
+I'm a web and mobile web developer. I'm based on Barcelona, Spain.
+
+### What i am currently working on :computer:
+Currently improving my React skills: NextJS, Gatsby JS and React Native. While improving my Swift knowledge.
+
+### You can find me here:
+[Twitter](https://twitter.com/_idlebeat)
+[Linkedin](https://www.linkedin.com/in/jessica-fernandez-53312999)
+
 
 <!--
 **JessicaFM/JessicaFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
