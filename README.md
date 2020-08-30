@@ -9,9 +9,9 @@ Currently improving my React skills: NextJS, Gatsby JS and React Native. While i
 [Twitter](https://twitter.com/_idlebeat)
 [Linkedin](https://www.linkedin.com/in/jessica-fernandez-53312999)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/jessica-fernandez-53312999)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+[![Twitter](https://i.stack.imgur.com/zlR4C.jpg) Twitter](https://twitter.com/_idlebeat)
 
 
 <!--
