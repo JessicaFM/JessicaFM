@@ -5,7 +5,7 @@ I'm a web and mobile web developer. I'm based on Barcelona, Spain.
 ### What i am currently working on :computer:
 Currently improving my React skills: NextJS, Gatsby JS and React Native. While improving my Swift knowledge.
 
-![VS Code](https://img.shields.io/badge/visualstudiocode-badge-blue.svg?logo=python?logoColor=white)
+![VS Code](https://img.shields.io/badge/python-badge-blue.svg?logo=python?logoColor=white)
 
 
 ### You can find me here:
