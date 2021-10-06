@@ -16,7 +16,7 @@ Currently improving my React skills: NextJS, Gatsby JS and React Native. While i
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Swift](https://img.shields.io/badge/-swift-%23fd9426.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Php](https://img.shields.io/badge/-php-%238892be.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-python-%23646464.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
 ### You can find me here:
