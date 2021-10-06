@@ -13,7 +13,7 @@ Currently improving my React skills: NextJS, Gatsby JS and React Native. While i
 ![Php](https://img.shields.io/badge/-php-%238892be.svg?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/-react-%2300d8ff.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Android](https://img.shields.io/badge/-android-%23a4c639.svg?style=for-the-badge&logo=android&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff)
+![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=fff)
 ![Swift](https://img.shields.io/badge/-swift-%23fd9426.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-%23646464.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
