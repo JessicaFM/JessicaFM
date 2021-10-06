@@ -20,7 +20,6 @@ Currently improving my React skills: NextJS, Gatsby JS and React Native. While i
 
 
 ### You can find me here:
-[Twitter](https://twitter.com/_idlebeat)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jessica-f-53312999/)
 &nbsp;
