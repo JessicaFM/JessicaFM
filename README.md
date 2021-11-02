@@ -1,4 +1,4 @@
-![Image of Profile](https://github.com/JessicaFM/JessicaFM/blob/master/twitter-bgd-profile-3.jpg)
+![Image of Profile](https://github.com/JessicaFM/JessicaFM/blob/master/profile_imagejpg)
 
 ## Hi, I'm Jessica! 👋
 
