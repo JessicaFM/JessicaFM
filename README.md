@@ -4,7 +4,7 @@
 
 I'm a Front-End developer. I'm based in Barcelona, Spain.
 
-[![@elena's Holopin board](https://holopin.io/api/user/board?user=elena)](https://holopin.io/@elena)
+[![@jessicafm's Holopin board](https://holopin.io/api/user/board?user=jessicafm)](https://holopin.io/@jessicafm)
 
 ### What i am currently working on :computer:
 Currently improving my React skills: NextJS, Gatsby JS and React Native. While improving my Swift knowledge.
@@ -26,7 +26,7 @@ Currently improving my React skills: NextJS, Gatsby JS and React Native. While i
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jessica-f-53312999/)
 &nbsp;
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=JessicaFM)](https://github.com/JessicaFM/github-readme-stats)
+[![Jessica's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=JessicaFM)](https://github.com/JessicaFM/github-readme-stats)
 
 <!--
 **JessicaFM/JessicaFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
