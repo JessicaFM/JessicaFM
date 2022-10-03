@@ -4,7 +4,7 @@
 
 I'm a Front-End developer. I'm based in Barcelona, Spain.
 
-[![@jessicafm's Holopin board](https://holopin.io/api/user/board?user=jessicafm)](https://holopin.io/@jessicafm)
+[![@jessicafm's Holopin board](https://holopin.io/api/user/board?user=jessicafm)](https://www.holopin.io/@jessicafm)
 
 ### What i am currently working on :computer:
 Currently improving my React skills: NextJS, Gatsby JS and React Native. While improving my Swift knowledge.
