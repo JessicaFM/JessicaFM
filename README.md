@@ -11,14 +11,14 @@ Currently improving my React skills: NextJS, Gatsby JS and React Native. While i
 
 ![Sass](https://img.shields.io/badge/-sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Jquery](https://img.shields.io/badge/-jquery-%230769ad.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-javascript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Swift](https://img.shields.io/badge/-swift-%23fd9426.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Php](https://img.shields.io/badge/-php-%238892be.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 ### You can find me here:
