@@ -7,7 +7,7 @@ I'm a Full-Stack developer. I'm based in Barcelona, Spain.
 [![@jessicafm's Holopin board](https://holopin.io/api/user/board?user=jessicafm)](https://www.holopin.io/@jessicafm)
 
 ### What i am currently working on :computer:
-Full-stack engineer building web & mobile products. Frontend with React & Vue; backend with Python & Java. I ship APIs, UI systems, and cloud-ready services (exploring Next.js & React Native).
+Full-stack developer building web & mobile products. Frontend with React & Vue; backend with Python & Java. I ship APIs, UI systems, and cloud-ready services (exploring Next.js & React Native).
 
 ![Sass](https://img.shields.io/badge/-sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
