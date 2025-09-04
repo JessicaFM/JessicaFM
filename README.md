@@ -2,12 +2,12 @@
 
 ## Hi, I'm Jessica! 👋
 
-I'm a Front-End developer. I'm based in Barcelona, Spain.
+I'm a Full-Stack developer. I'm based in Barcelona, Spain.
 
 [![@jessicafm's Holopin board](https://holopin.io/api/user/board?user=jessicafm)](https://www.holopin.io/@jessicafm)
 
 ### What i am currently working on :computer:
-Currently improving my React skills: NextJS, Gatsby JS and React Native. While improving my Swift knowledge.
+Full-stack engineer building web & mobile products. Frontend with React & Vue; backend with Python & Java. I ship APIs, UI systems, and cloud-ready services (exploring Next.js & React Native).
 
 ![Sass](https://img.shields.io/badge/-sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
